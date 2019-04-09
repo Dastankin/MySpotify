@@ -1,0 +1,16 @@
+{
+  "main.css": "/MySpotify/static/css/main.2550e609.chunk.css",
+  "main.js": "/MySpotify/static/js/main.fa9ca28a.chunk.js",
+  "main.js.map": "/MySpotify/static/js/main.fa9ca28a.chunk.js.map",
+  "runtime~main.js": "/MySpotify/static/js/runtime~main.f638c858.js",
+  "runtime~main.js.map": "/MySpotify/static/js/runtime~main.f638c858.js.map",
+  "static/js/2.7a16242e.chunk.js": "/MySpotify/static/js/2.7a16242e.chunk.js",
+  "static/js/2.7a16242e.chunk.js.map": "/MySpotify/static/js/2.7a16242e.chunk.js.map",
+  "index.html": "/MySpotify/index.html",
+  "precache-manifest.4c9fe2431444dc2b0e35f0e536e14f37.js": "/MySpotify/precache-manifest.4c9fe2431444dc2b0e35f0e536e14f37.js",
+  "service-worker.js": "/MySpotify/service-worker.js",
+  "static/css/main.2550e609.chunk.css.map": "/MySpotify/static/css/main.2550e609.chunk.css.map",
+  "static/media/cover-small.jpeg": "/MySpotify/static/media/cover-small.17eb45df.jpeg",
+  "static/media/test.jpg": "/MySpotify/static/media/test.4a8ede3e.jpg",
+  "static/media/tumblr.gif": "/MySpotify/static/media/tumblr.4e401db1.gif"
+}
